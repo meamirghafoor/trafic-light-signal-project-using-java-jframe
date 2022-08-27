@@ -1,7 +1,7 @@
 # Traffic light signal controller project
 This project is developed using Java language to control traffic flow. Java jframe is used for gui.
 ## Language
-1. Java
+Java
 ## Tool
 Netbeans
 ## Demo
